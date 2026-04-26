@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Padauk";
+  src: url("../fonts/Padauk.ttf");
+  font-style: normal; }
+
+@font-face {
+  font-family: "Zawgyi";
+  src: url("../fonts/Zawgyi.ttf");
+  font-style: normal; }
+
+body{
+
+	font-family: "Padauk", "Zawgyi";
+}
